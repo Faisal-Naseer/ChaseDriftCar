@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Faisal-Naseer/ChaseDriftCar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Faisal Naseer built the Crash Drift Car app as an Ad Supported app. This SERVICE is provided by Faisal Naseer at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Markdown
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Crash Drift Car unless otherwise defined in this Privacy Policy.
+### Information Collection and Use
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
